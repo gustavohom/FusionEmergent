@@ -1,5 +1,5 @@
 #---------------------------------------------
-# Calculo de Ripley para area Baixio e Plato
+# Calculo de Ripley para area com uso dos pontos em uma planilha CSV e area em shapefile
 #---------------------------------------------
 
 # Mesclando pontos e shp
